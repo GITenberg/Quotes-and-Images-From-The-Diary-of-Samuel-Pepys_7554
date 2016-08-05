@@ -1,0 +1,35 @@
+_repo: Quotes-and-Images-From-The-Diary-of-Samuel-Pepys_7554
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7554/7554-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Pepys, Samuel
+    birthdate: 1633
+    deathdate: 1703
+    gutenberg_agent_id: '1181'
+    url: http://www.gutenberg.org/2009/agents/1181
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Pepys
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2004-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Quotations'
+- GITenberg
+title: Quotes and Images From The Diary of Samuel Pepys
+url: http://www.gutenberg.org/ebooks/7554
